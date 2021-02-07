@@ -11,6 +11,11 @@
     <Description>Circular ProgressBar is an animated custom control for WinForms.</Description>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <PackageIcon>Icon.png</PackageIcon>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/Crytilis/CircularProgressBar_NET5</RepositoryUrl>
+    <PackageTags>WinForm, WinForms, Windows Forms, Animation, Progress Bar, NET5, Animated</PackageTags>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageReleaseNotes>Moved to NET5</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
