@@ -1,13 +1,13 @@
 # <img src="CircularProgressBar_NET5/Icon.png" width="42" alt="Icon"> Circular ProgressBar for WinForm [NET5]
-[![](https://img.shields.io/github/license/falahati/CircularProgressBar.svg?style=flat-square)](https://github.com/crytilis/CircularProgressBar_NET5/blob/master/LICENSE.md)
-[![](https://img.shields.io/github/issues/falahati/CircularProgressBar.svg?style=flat-square)](https://github.com/crytilis/CircularProgressBar_NET5/issues)
+[![GitHub](https://img.shields.io/github/license/Crytilis/CircularProgressBar_NET5)](https://github.com/Crytilis/CircularProgressBar_NET5/blob/master/LICENSE.md)
+[![GitHub issues](https://img.shields.io/github/issues-raw/Crytilis/CircularProgressBar_NET5)](https://github.com/Crytilis/CircularProgressBar_NET5/issues)
 
 Circular ProgressBar is an animated custom control and inplace replacement of 'ProgressBar' for WinForms.  
 *Original .NET Framework project was created by Soroush Falahati*  
 
 ## Where to get
-[![](https://img.shields.io/nuget/dt/CircularProgressBar.svg?style=flat-square)](https://www.nuget.org/packages/CircularProgressBar)
-[![](https://img.shields.io/nuget/v/CircularProgressBar.svg?style=flat-square)](https://www.nuget.org/packages/CircularProgressBar)
+[![Nuget](https://img.shields.io/nuget/dt/CircularProgressBar_NET5?color=blue)](https://www.nuget.org/packages/CircularProgressBar_NET5)
+[![Nuget](https://img.shields.io/nuget/v/CircularProgressBar_NET5)](https://www.nuget.org/packages/CircularProgressBar_NET5)
 
 This library is available as a NuGet package at [nuget.org](https://www.nuget.org/packages/CircularProgressBar_NET5/).
 
