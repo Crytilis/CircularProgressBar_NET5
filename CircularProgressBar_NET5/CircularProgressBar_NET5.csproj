@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <OutputType>Library</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+    <Version>3.0.0</Version>
+    <Authors>Jason Thompson</Authors>
+    <Copyright>2021 Jason Thompson</Copyright>
+    <Description>Circular ProgressBar is an animated custom control for WinForms.</Description>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageIcon>Icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WinFormAnimation-NET5" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="Icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+  
+
+</Project>
